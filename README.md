@@ -51,9 +51,3 @@ python EnvioContrato.py
 ## Observações
 
 Como o projeto contém apenas um script principal, as dependências abaixo são uma sugestão baseada em cenários comuns de automação. Ajuste conforme os imports reais do código.
-
-## Melhorias futuras
-
-- Renomear para `envio_contrato.py`.
-- Migrar `README.txt` para `README.md`.
-- Separar o código em módulos, caso o projeto cresça.

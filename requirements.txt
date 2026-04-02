@@ -1,0 +1,6 @@
+# Dependências prováveis para automação de envio/processamento.
+# Ajuste conforme os imports reais do projeto.
+
+pandas
+openpyxl
+python-docx

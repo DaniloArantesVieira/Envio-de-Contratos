@@ -5,9 +5,11 @@ Projeto em Python para automatizar ou apoiar o **envio de contratos**, com docum
 ## Estrutura
 
 ```text
-Envios de contratos/
-├─ EnvioContrato.py
-└─ README.txt
+envio_contratos/
+├─ src/
+│  └─ envio_contrato.py
+├─ README.md
+└─ requirements.txt
 ```
 
 ## Objetivo
